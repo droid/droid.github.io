@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.fueled.mvp",
+    "sha256_cert_fingerprints":
+    ["5C:8F:D1:D7:B5:91:68:07:A0:78:C3:3B:BB:B4:85:F0:DF:76:A9:4A:0D:3D:8F:12:57:0B:43:26:3B:7B:01:E2"]
+  }
+}]
